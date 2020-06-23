@@ -11,13 +11,13 @@ Installation by composer
 ```composer
 {
     "require": {
-       "kekaadrenalin/yii2-imap": "dev-master"
+       "alexander-ronin/yii2-imap": "dev-master"
     }
 }
 
 Or
 
-$ composer require kekaadrenalin/yii2-imap "dev-master"
+$ composer require alexander-ronin/yii2-imap "dev-master"
 ```
 
 # Use as component
